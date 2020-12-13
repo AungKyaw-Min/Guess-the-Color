@@ -1,13 +1,11 @@
 # Guess-the-Color
  
 ## Easy Mode
-![first-page](images/bottom_main.png) 
-<p></p>
+![easy-mode](easy.png) 
+<p>Guess which RGB value among 3 RGB values matches the color</p>
 
 ## Second Fragment
-![second-page](images/bottom_second.png) 
-<p>The form to add new channels just by inserting the name and the URL of the channel.</p>
+![difficult-mode](hard.png) 
+<p>Guess which RGB value among 6 RGB values matches the color</p>
 
-## Third Fragment
-![third-page](images/bottom_third.png) 
-<p>The default TV channels and the new TV channels the user added.</p>
+<p>We can also get new color, by clicking "new colors"</p>
